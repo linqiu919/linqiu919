@@ -37,27 +37,6 @@
 
 ---
 
-### `> pinned_repos`
-
-<div align="center">
-
-<a href="https://github.com/linqiu919/augment2api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linqiu919&repo=augment2api&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/linqiu919/augment-open-gateway">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linqiu919&repo=augment-open-gateway&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/linqiu919/aidoc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linqiu919&repo=aidoc&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/linqiu919/outlook-helper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linqiu919&repo=outlook-helper&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
 ### `> stats`
 
 <div align="center">
