@@ -1,16 +1,103 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**linqiu919/linqiu919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%F0%9F%94%A7+Building+tools+that+make+dev+life+easier;%E2%9A%A1+Turning+ideas+into+elegant+Go+code" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### `> whoami`
+
+```text
+🧑‍💻  LinQiu — Backend Developer & Tool Craftsman
+📍  Building automation tools & API integrations
+🔭  Focused on Go ecosystem, IDE enhancement & AI tooling
+🌱  Currently exploring AI-powered coding workflows
+```
+
+---
+
+### `> tech_stack`
+
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### `> pinned_repos`
+
+<div align="center">
+
+<a href="https://github.com/linqiu919/augment2api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linqiu919&repo=augment2api&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/linqiu919/augment-open-gateway">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linqiu919&repo=augment-open-gateway&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/linqiu919/aidoc">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linqiu919&repo=aidoc&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/linqiu919/outlook-helper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linqiu919&repo=outlook-helper&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
+</a>
+
+</div>
+
+---
+
+### `> stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=linqiu919&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linqiu919&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=linqiu919&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
+
+</div>
+
+---
+
+### `> activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=linqiu919&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=linqiu919&style=flat-square&color=1f6feb&label=Profile+Views" />
+
+<br/><br/>
+
+```
+╔══════════════════════════════════════════════╗
+║  "Code is like humor. When you have to      ║
+║   explain it, it's bad." — Cory House       ║
+╚══════════════════════════════════════════════╝
+```
+
+</div>
+
+
