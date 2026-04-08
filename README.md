@@ -37,23 +37,6 @@
 
 ---
 
-### `> stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=linqiu919&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linqiu919&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=linqiu919&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
-
-</div>
-
----
-
 ### `> activity`
 
 <div align="center">
@@ -69,13 +52,6 @@
 <img src="https://komarev.com/ghpvc/?username=linqiu919&style=flat-square&color=1f6feb&label=Profile+Views" />
 
 <br/><br/>
-
-```
-╔══════════════════════════════════════════════╗
-║  "Code is like humor. When you have to      ║
-║   explain it, it's bad." — Cory House       ║
-╚══════════════════════════════════════════════╝
-```
 
 </div>
 
