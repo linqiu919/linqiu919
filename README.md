@@ -35,18 +35,6 @@
 
 </div>
 
----
-
-### `> activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=linqiu919&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true" width="95%"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=linqiu919&style=flat-square&color=1f6feb&label=Profile+Views" />
