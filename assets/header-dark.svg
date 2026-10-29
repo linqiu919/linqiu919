@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="112" viewBox="0 0 720 112" role="img" aria-label="LinQiu, backend developer">
+  <rect width="720" height="112" fill="#18181b"/>
+  <rect x="0.5" y="0.5" width="719" height="111" fill="none" stroke="#3f3f46" stroke-width="1" vector-effect="non-scaling-stroke"/>
+  <rect x="36" y="40" width="8" height="8" fill="#00E96F"/>
+  <text x="56" y="44" fill="#f4f4f5" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="500" dominant-baseline="middle">LinQiu</text>
+  <text x="36" y="80" fill="#a1a1aa" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Backend developer</text>
+</svg>
