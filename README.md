@@ -1,46 +1,70 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="LinQiu — Backend developer" src="assets/header-light.svg" width="720">
+</picture>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%F0%9F%94%A7+Building+tools+that+make+dev+life+easier;%E2%9A%A1+Turning+ideas+into+elegant+Go+code" alt="Typing SVG" />
-</a>
+I work on API gateways and context engines for AI coding tools, mostly in Go.
 
-</div>
+用 Go 写网关和代码上下文。
+
+Go · TypeScript · Rust · Python
+
+## Selected projects
+
+`Go · ★191`
+
+**[augment2api](https://github.com/linqiu919/augment2api)**
+
+OpenAI-compatible middleware for the Augment API.
+
+[→](https://github.com/linqiu919/augment2api)
 
 ---
 
-### `> whoami`
+`Go · ★70`
 
-```text
-🧑‍💻  LinQiu — Backend Developer & Tool Craftsman
-📍  Building automation tools & API integrations
-🔭  Focused on Go ecosystem, IDE enhancement & AI tooling
-🌱  Currently exploring AI-powered coding workflows
-```
+**[augment-open-gateway](https://github.com/linqiu919/augment-open-gateway)**
+
+API gateway for AugmentCode: token management, load balancing, and multi-user access.
+
+[→](https://github.com/linqiu919/augment-open-gateway)
 
 ---
 
-### `> tech_stack`
+`Go · ★48`
 
-<div align="center">
+**[better-context-engine](https://github.com/linqiu919/better-context-engine)**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+ACE-compatible code context retrieval engine: real-time codebase indexing and low-latency context for AI coding assistants.
 
-</div>
+[→](https://github.com/linqiu919/better-context-engine)
 
-<div align="center">
+---
 
-<img src="https://komarev.com/ghpvc/?username=linqiu919&style=flat-square&color=1f6feb&label=Profile+Views" />
+`Go · ★39 · archived`
 
-<br/><br/>
+**[trae2api](https://github.com/linqiu919/trae2api)**
 
-</div>
+OpenAI-compatible wrapper for the Trae API.
 
+[→](https://github.com/linqiu919/trae2api)
 
+---
+
+`Rust · ★17`
+
+**[bce-tool-rs](https://github.com/linqiu919/bce-tool-rs)**
+
+Rust MCP server for Better Context Engine: codebase indexing, semantic search, and prompt enhancement.
+
+[→](https://github.com/linqiu919/bce-tool-rs)
+
+---
+
+`Go · ★23`
+
+**[outlook-helper](https://github.com/linqiu919/outlook-helper)**
+
+Batch tool for Outlook token mailboxes: verify tokens, read mail, and apply labels.
+
+[→](https://github.com/linqiu919/outlook-helper)
